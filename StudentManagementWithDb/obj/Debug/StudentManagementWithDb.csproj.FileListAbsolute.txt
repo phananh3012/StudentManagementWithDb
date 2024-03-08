@@ -1,0 +1,10 @@
+D:\Workspace\dotnet\SDS\1. OOP\StudentManagementWithDb\StudentManagementWithDb\bin\Debug\StudentManagementWithDb.exe.config
+D:\Workspace\dotnet\SDS\1. OOP\StudentManagementWithDb\StudentManagementWithDb\bin\Debug\StudentManagementWithDb.exe
+D:\Workspace\dotnet\SDS\1. OOP\StudentManagementWithDb\StudentManagementWithDb\bin\Debug\StudentManagementWithDb.pdb
+D:\Workspace\dotnet\SDS\1. OOP\StudentManagementWithDb\StudentManagementWithDb\bin\Debug\Dapper.dll
+D:\Workspace\dotnet\SDS\1. OOP\StudentManagementWithDb\StudentManagementWithDb\bin\Debug\Dapper.xml
+D:\Workspace\dotnet\SDS\1. OOP\StudentManagementWithDb\StudentManagementWithDb\obj\Debug\StudentManagementWithDb.csproj.AssemblyReference.cache
+D:\Workspace\dotnet\SDS\1. OOP\StudentManagementWithDb\StudentManagementWithDb\obj\Debug\StudentManagementWithDb.csproj.CoreCompileInputs.cache
+D:\Workspace\dotnet\SDS\1. OOP\StudentManagementWithDb\StudentManagementWithDb\obj\Debug\StudentManagementWithDb.csproj.CopyComplete
+D:\Workspace\dotnet\SDS\1. OOP\StudentManagementWithDb\StudentManagementWithDb\obj\Debug\StudentManagementWithDb.exe
+D:\Workspace\dotnet\SDS\1. OOP\StudentManagementWithDb\StudentManagementWithDb\obj\Debug\StudentManagementWithDb.pdb
